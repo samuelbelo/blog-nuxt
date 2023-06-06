@@ -32,7 +32,8 @@ export default defineAppConfig({
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/in/samuelbelo/'
-      }
+      },
+      github: 'samuelbelo',
     },
     form: {
       successMessage: 'Message sent. Thank you!'
